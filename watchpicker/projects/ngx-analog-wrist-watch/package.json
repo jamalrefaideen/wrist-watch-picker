@@ -1,0 +1,36 @@
+{
+  "name": "ngx-analog-wrist-watch",
+  "version": "0.0.3",
+  "peerDependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/core": "^8.2.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamalrefaideen/wrist-watch-picker.git"
+  },
+  "keywords": [
+     "npm",
+     "npm i",
+     "ngx-wrist-watch-picker",
+     "npm-ngx-wrist-watch-picker",
+     "watchpicker",
+     "timepicker",
+     "wristwatch",
+     "wristwatchpicker","html-css-angular-timepicker",
+     "watchdirective","timepickerdirective",
+     "wristwatchdirective","clockpicker",
+     "clockdesignattributedirective",
+     "AngularTimePicker","Angular8TimePicker",
+     "Angular8TimePickerDirrective",
+     "AngularClockPicker","AnalogClockDirective" ,"AngularAnalogClockDirective",
+     "AnalogClockPicker", "AnalogTimePicker", "NgxClockpicker","ngClockPicker"
+  ],
+  "author": "Jamal Refaideen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamalrefaideen/wrist-watch-picker/issues"
+  },
+  "homepage": "https://github.com/jamalrefaideen/wrist-watch-picker"
+}
+
